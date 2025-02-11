@@ -1,0 +1,8 @@
+
+
+//configuracion para envio de correos Gmail
+-→ https://www.geeksforgeeks.org/spring-boot-sending-email-via-smtp/
+-> COnfigurar la cuenta de google -> Seguridad -> Activar verificacion de 2 pasos ->
+-> Buscar contraseña de aplicaciones: https://myaccount.google.com/apppasswords -> Escribir el nombre de la app: Spring Boot app y copiar la contraseña.
+-> Ir a application.properties y agregar las configuraciones mail correo, contraseña de aplicaciones.
+
